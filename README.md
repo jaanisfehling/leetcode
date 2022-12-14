@@ -1,4 +1,4 @@
 # leetcode
 
 Language: C# \
-Only snippets directly from Leetcode
+Snippets copied directly from LeetCode
