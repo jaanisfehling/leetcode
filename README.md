@@ -1,4 +1,4 @@
 # leetcode
 
-Language: C# \
+Language: C#/Python \
 Snippets copied directly from LeetCode
